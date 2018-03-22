@@ -1,0 +1,14 @@
+{
+  "name": "study-rest-api",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "json-server --watch db.json --port 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
